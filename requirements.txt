@@ -1,0 +1,4 @@
+pandas==2.1.1
+python-docx==0.8.12
+pywin32==306
+tk
